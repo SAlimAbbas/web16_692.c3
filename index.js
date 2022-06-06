@@ -22,6 +22,10 @@ app.get('/', function(req, res){
     })
 })
 
+// app.get('/',(req, res)=>{
+//     res.send("WORKKING!");
+// })
+
 
 app.listen(PORT,()=>{
     console.log(`server starting at ${PORT}`);
