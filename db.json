@@ -1,0 +1,28 @@
+{
+  "user": [
+    { "id": "1", "name": "Parker", "role": "voter", "age": "19" },
+    { "id": "2", "name": "Peter", "role": "candidate", "age": "19" },
+    { "id": "3", "name": "sherlock", "role": "voter", "age": "24" },
+    { "id": "4", "name": "Hero", "role": "voter", "age": "25" },
+    { "id": "5", "name": "Hero2", "role": "candidate", "age": "25" },
+    { "id": "6", "name": "Hero3", "role": "candidate", "age": "25" },
+    { "id": "7", "name": "Donald", "role": "candidate", "age": "26" },
+    { "id": "7", "name": "Donald", "role": "candidate", "age": "26" },
+    { "id": "8", "name": "MrNobody", "role": "candidate", "age": "26" },
+    {
+      "id": "9",
+      "name": "Mr",
+      "role": "voter",
+      "age": "26",
+      "username": "bob123",
+      "token": "0.5865315743560922"
+    },
+    {
+      "id": "10",
+      "name": "MrNobody",
+      "role": "candidate",
+      "age": "26",
+      "username": "helo123"
+    }
+  ]
+}
